@@ -1,0 +1,11 @@
+{
+  "name": "8dol-lib",
+  "description": "The frontend project of 8dol",
+  "version": "0.0.1",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "react": "0.14.6",
+    "zepto": "1.1.6"
+  }
+}
